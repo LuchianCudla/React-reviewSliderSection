@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-reviewSliderSection/static/css/main.8157e97d.css",
+    "main.js": "/React-reviewSliderSection/static/js/main.3bbd593a.js",
+    "index.html": "/React-reviewSliderSection/index.html",
+    "main.8157e97d.css.map": "/React-reviewSliderSection/static/css/main.8157e97d.css.map",
+    "main.3bbd593a.js.map": "/React-reviewSliderSection/static/js/main.3bbd593a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8157e97d.css",
+    "static/js/main.3bbd593a.js"
+  ]
+}
