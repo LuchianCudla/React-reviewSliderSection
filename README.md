@@ -1,0 +1,1 @@
+This is a review section from a website,for this project I use functional components,useState hook with a starting index,then with the useEffect and with the setInterval I change the index and render a new review.
